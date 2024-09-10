@@ -2,7 +2,7 @@
   "name": "mailbroad-core",
   "license": "MIT",
   "description": "Email Template editor",
-  "version": "4.16.0",
+  "version": "1.0.0",
   "author": "MailBroad-Sanjay",
   "repository": {
     "type": "git",
