@@ -1,15 +1,15 @@
 {
   "name": "mailbroad-core",
   "license": "MIT",
-  "description": "Email Template editor",
-  "version": "1.0.0",
-  "author": "MailBroad-Sanjay",
+  "description": "Mailbroad Template editor",
+  "version": "1.0.1",
+  "author": "Sanjay",
   "repository": {
     "type": "git",
     "url": "github.com/proquotation/mailbroad-core.git"
   },
   "keywords": [
-    "email editor core"
+    "mailbroad editor core"
   ],
   "files": [
     "lib"
