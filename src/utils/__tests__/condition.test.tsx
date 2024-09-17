@@ -19,7 +19,7 @@ describe('Test condition.test', () => {
       name: 'Ryan',
       age: 26,
       job: 'backend',
-      email: 'easy-email@gmail.com',
+      email: 'mailbroad@gmail.com',
       fired: false
     },
   };
